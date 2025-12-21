@@ -2,6 +2,7 @@ import React from "react";
 import { Link, NavLink } from "react-router";
 import image from "../../assets/logo.png";
 import { ImGithub } from "react-icons/im";
+// import "../App.css";
 
 const Navbar = () => {
   return (
@@ -42,15 +43,27 @@ const Navbar = () => {
         </Link>
       </div>
       <div className="navbar-center hidden lg:flex">
-        <ul className="flex gap-4">
-          <NavLink to="/">Home</NavLink>
-          <NavLink to="/">Apps</NavLink>
-          <NavLink to="/">Installation</NavLink>
+        <ul className="flex font-semibold gap-4 text-transparent bg-clip-text bg-linear-to-r from-[#632EE3] to-[#9F62F2]">
+          <NavLink className="group" to="/">
+            <span className="group-[.active]:border-[#9F62F2] border-b-2">
+              Home
+            </span>
+          </NavLink>
+          <NavLink className="group" to="/apps">
+            <span className="group-[.active]:border-[#9F62F2] border-b-2">
+              Apps
+            </span>
+          </NavLink>
+          <NavLink className="group" to="/installation">
+            <span className="group-[.active]:border-[#9F62F2] border-b-2">
+              Installation
+            </span>
+          </NavLink>
         </ul>
       </div>
       <div className="navbar-end font-semibold">
         <Link
-          to=""
+          to="https://github.com/ShovonTheBarua"
           className="btn bg-linear-to-r from-[#632EE3] to-[#9F62F2] text-white"
         >
           <span>

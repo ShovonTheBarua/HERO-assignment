@@ -87,7 +87,7 @@ const Home = () => {
         </div>
         <Link
           to="/apps"
-          className="block w-fit mx-auto px-8 py-4 rounded-lg text-white font-semibold bg-linear-to-r from-[#632EE3] to-[#9F62F2]"
+          className="block w-fit mx-auto px-16 py-4 rounded-lg text-white font-semibold bg-linear-to-r from-[#632EE3] to-[#9F62F2]"
         >
           Show All
         </Link>

@@ -31,8 +31,8 @@ const Navbar = () => {
             className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow"
           >
             <NavLink to="/">Home</NavLink>
-            <NavLink to="/">Home</NavLink>
-            <NavLink to="/">Home</NavLink>
+            <NavLink to="/apps">Apps</NavLink>
+            <NavLink to="/installation">Installation</NavLink>
           </ul>
         </div>
         <Link className="flex items-center">

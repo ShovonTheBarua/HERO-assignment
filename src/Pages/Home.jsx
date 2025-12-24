@@ -85,8 +85,8 @@ const Home = () => {
           <Loading />
         ) : (
           <div className="grid gap-4 my-10  grid-cols-1 md:grid-cols-3 lg:grid-cols-4 mx-auto max-w-7xl">
-            {trendingData.map((data) => (
-              <AppCard data={data} />
+            {trendingData.map((data, i) => (
+              <AppCard key={i} data={data} />
             ))}
           </div>
         )}

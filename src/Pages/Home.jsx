@@ -5,9 +5,10 @@ import { Link } from "react-router";
 import appStore from "../../assets/appStore.png";
 import playStore from "../../assets/googlePlay.png";
 import hero from "../../assets/hero.png";
+import Loading from "../Component/Loading";
 
 const Home = () => {
-  const { appData } = useAppData();
+  const { appData, loading } = useAppData();
 
   const trendingData = appData.slice(0, 8);
   return (
@@ -80,11 +81,15 @@ const Home = () => {
             Explore All Trending Apps on the Market developed by us
           </p>
         </div>
-        <div className="grid gap-4 my-10  grid-cols-1 md:grid-cols-3 lg:grid-cols-4 mx-auto max-w-7xl">
-          {trendingData.map((data) => (
-            <AppCard data={data} />
-          ))}
-        </div>
+        {loading ? (
+          <Loading />
+        ) : (
+          <div className="grid gap-4 my-10  grid-cols-1 md:grid-cols-3 lg:grid-cols-4 mx-auto max-w-7xl">
+            {trendingData.map((data) => (
+              <AppCard data={data} />
+            ))}
+          </div>
+        )}
         <Link
           to="/apps"
           className="block w-fit mx-auto px-16 py-4 rounded-lg text-white font-semibold bg-linear-to-r from-[#632EE3] to-[#9F62F2]"

@@ -1,9 +1,10 @@
 import React, { useState } from "react";
 import useAppData from "../Hooks/useAppData";
 import AppCard from "./AppCard";
+import Loading from "../Component/Loading";
 
 const Apps = () => {
-  const { appData } = useAppData();
+  const { appData, loading } = useAppData();
   const [search, setSearch] = useState("");
   // const [found, setFound] = useState("");
   const term = search.trim().toLocaleLowerCase();
@@ -19,7 +20,6 @@ const Apps = () => {
           Explore All Apps on the Market developed by us. We code for Millions
         </p>
       </div>
-
       <div className="flex justify-between">
         <p className="text-2xl font-semibold">
           ({searchedApps.length}) Apps Found
@@ -34,19 +34,19 @@ const Apps = () => {
           />
         </label>
       </div>
-
-      {/* no apps */}
-      {searchedApps.length === 0 && (
+      {loading ? (
+        <Loading />
+      ) : searchedApps.length === 0 ? (
         <h1 className="w-fit mx-auto my-20 text-6xl font-bold text-gray-500">
           No App Found
         </h1>
+      ) : (
+        <div className="grid gap-4 my-10  grid-cols-1 md:grid-cols-3 lg:grid-cols-4 mx-auto max-w-7xl">
+          {searchedApps.map((data) => (
+            <AppCard key={data.id} data={data} />
+          ))}
+        </div>
       )}
-
-      <div className="grid gap-4 my-10  grid-cols-1 md:grid-cols-3 lg:grid-cols-4 mx-auto max-w-7xl">
-        {searchedApps.map((data) => (
-          <AppCard key={data.id} data={data} />
-        ))}
-      </div>
     </div>
   );
 };

@@ -3,10 +3,10 @@ import { RouterProvider } from "react-router/dom";
 import MainLayout from "../MainLayout/MainLayout";
 import { Component } from "react";
 import Home from "../Pages/Home";
-import installation from "../Pages/installation";
 import Apps from "../Pages/Apps";
 import AppDetails from "../Pages/AppDetails";
 import ErrorPage from "../Pages/ErrorPage";
+import Installation from "../Pages/Installation";
 
 const router = createBrowserRouter([
   {
@@ -24,7 +24,7 @@ const router = createBrowserRouter([
       },
       {
         path: "/installation",
-        Component: installation,
+        Component: Installation,
       },
       {
         path: "/appDetails/:id",

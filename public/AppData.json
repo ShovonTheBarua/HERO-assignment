@@ -8,7 +8,7 @@
     "size": 85,
     "reviews": "120000K",
     "ratingAvg": 4.4,
-    "downloads": "5000M",
+    "downloads": 34,
     "ratings": [{ "name": "1 star", "count": 30000 }, { "name": "2 star", "count": 40000 }, { "name": "3 star", "count": 80000 }, { "name": "4 star", "count": 170000 }, { "name": "5 star", "count": 230000 }],
     "detailedDescription": "WhatsApp Messenger revolutionizes communication with end-to-end encrypted text messaging, voice and video calls, group chats, and media sharing across devices. Ideal for personal and business use, it supports status updates, location sharing, and document exchange without data charges over Wi-Fi. Its lightweight design ensures smooth performance even on slower connections, making it a global favorite for staying connected with family, friends, and colleagues worldwide. Features like broadcast lists and disappearing messages add privacy and convenience, earning its spot as an essential daily tool for over billions of users."
   },
@@ -21,7 +21,7 @@
     "size": 110,
     "reviews": "90000K",
     "ratingAvg": 4.3,
-    "downloads": "4000M",
+    "downloads": 56,
     "ratings": [{ "name": "1 star", "count": 30000 }, { "name": "2 star", "count": 40000 }, { "name": "3 star", "count": 80000 }, { "name": "4 star", "count": 170000 }, { "name": "5 star", "count": 230000 }],
     "detailedDescription": "Instagram transforms visual storytelling through photo and video sharing, ephemeral Stories, Reels for short-form content, and IGTV for longer videos. Users discover inspiration via Explore, follow creators, and engage with likes, comments, and DMs. Perfect for influencers, brands, and casual users, it offers editing tools, filters, shopping tags, and live streaming to build communities. With algorithmic feeds prioritizing relevance, it fosters creativity and connection, though privacy controls help manage visibility. A cultural hub for trends, memes, and personal expression used by millions daily."
   },
@@ -34,7 +34,7 @@
     "size": 120,
     "reviews": "150000K",
     "ratingAvg": 4.2,
-    "downloads": "10000M",
+    "downloads": 67,
     "ratings": [{ "name": "1 star", "count": 30000 }, { "name": "2 star", "count": 40000 }, { "name": "3 star", "count": 80000 }, { "name": "4 star", "count": 170000 }, { "name": "5 star", "count": 230000 }],
     "detailedDescription": "YouTube is the world's largest video platform, offering endless entertainment from music videos and tutorials to vlogs, gaming, and live streams. Users upload content, subscribe to channels, create playlists, and engage via likes, comments, and shares. Premium subscribers enjoy ad-free viewing and offline downloads. Its recommendation algorithm surfaces personalized content, while YouTube Kids provides safe viewing for children. Creators monetize through ads, memberships, and Super Chats, making it a powerhouse for education, news, and viral trends accessible on any device."
   },
@@ -47,7 +47,7 @@
     "size": 95,
     "reviews": "70000K",
     "ratingAvg": 4.0,
-    "downloads": "5000M",
+    "downloads": 78,
     "ratings": [{ "name": "1 star", "count": 30000 }, { "name": "2 star", "count": 40000 }, { "name": "3 star", "count": 80000 }, { "name": "4 star", "count": 170000 }, { "name": "5 star", "count": 230000 }],
     "detailedDescription": "Facebook connects billions through friend networks, personalized News Feeds, Groups for shared interests, and Pages for public figures or businesses. Share posts, photos, videos, events, and Marketplace listings for buying/selling locally. Messenger integration enables private chats and calls, while Watch offers video recommendations. Privacy settings, Stories, and Reels keep it modern. It's a hub for life events, news sharing, and community building, though users must navigate algorithms and ads. Essential for staying updated on relationships and global happenings."
   },
@@ -60,7 +60,7 @@
     "size": 75,
     "reviews": "60000K",
     "ratingAvg": 4.5,
-    "downloads": "10000M",
+    "downloads": 65,
     "ratings": [{ "name": "1 star", "count": 30000 }, { "name": "2 star", "count": 40000 }, { "name": "3 star", "count": 80000 }, { "name": "4 star", "count": 170000 }, { "name": "5 star", "count": 230000 }],
     "detailedDescription": "Gmail delivers a powerful, intuitive email experience with 15GB free storage, smart categorization into Primary, Social, and Promotions tabs, and advanced search capabilities. Compose rich emails with attachments, schedules, and undo send. Integrates seamlessly with Google Workspace for Calendar, Drive, and Meet. Security features like spam filtering, phishing protection, and two-factor authentication keep data safe. Offline access, confidential mode for expiring emails, and AI-powered Smart Compose boost productivity for professionals and casual users alike, making it the go-to for reliable communication."
   },
@@ -73,7 +73,7 @@
     "size": 130,
     "reviews": "55000K",
     "ratingAvg": 4.4,
-    "downloads": "1000M",
+    "downloads": 34,
     "ratings": [{ "name": "1 star", "count": 30000 }, { "name": "2 star", "count": 40000 }, { "name": "3 star", "count": 80000 }, { "name": "4 star", "count": 170000 }, { "name": "5 star", "count": 230000 }],
     "detailedDescription": "Netflix streams thousands of movies, TV series, documentaries, and originals in multiple languages with subtitles and dubbing. Personalized recommendations, watchlists, and profiles for family members enhance the experience. Download for offline viewing on flights or commutes. Features like skip intros, playback speed control, and interactive content like Bandersnatch engage viewers. Regular updates with new releases, live events, and games expand entertainment options. Ideal for binge-watching favorites or discovering hidden gems across genres, it's a premium service redefining how we consume stories anytime, anywhere."
   },
@@ -86,7 +86,7 @@
     "size": 90,
     "reviews": "45000K",
     "ratingAvg": 4.6,
-    "downloads": "1000M",
+    "downloads": 78,
     "ratings": [{ "name": "1 star", "count": 30000 }, { "name": "2 star", "count": 40000 }, { "name": "3 star", "count": 80000 }, { "name": "4 star", "count": 170000 }, { "name": "5 star", "count": 230000 }],
     "detailedDescription": "Spotify offers 100 million+ songs, albums, and podcasts with personalized playlists like Discover Weekly and Daily Mixes powered by AI. Create custom playlists, share with friends, and follow artists for new releases. Premium unlocks ad-free listening, offline downloads, and high-quality audio. Features crossfade, equalizer, and Spotify Connect for multi-device playback. Podcasts cover news, true crime, and comedy, while Wrapped year-end summaries celebrate listening habits. Perfect for workouts, commutes, or relaxation, it's the ultimate soundtrack to life."
   },
@@ -99,7 +99,7 @@
     "size": 140,
     "reviews": "80000K",
     "ratingAvg": 4.3,
-    "downloads": "500M",
+    "downloads": 67,
     "ratings": [{ "name": "1 star", "count": 30000 }, { "name": "2 star", "count": 40000 }, { "name": "3 star", "count": 80000 }, { "name": "4 star", "count": 170000 }, { "name": "5 star", "count": 230000 }],
     "detailedDescription": "Amazon Shopping provides access to millions of products across categories like electronics, fashion, groceries, and books with fast Prime delivery, easy returns, and Subscribe & Save options. Use voice search via Alexa, track orders in real-time, and read verified reviews. Wishlists, deals, and personalized recommendations simplify buying. Pay securely with options like buy now pay later. Ideal for everyday essentials or gifts, its vast selection, competitive prices, and customer obsession make it a one-stop e-commerce giant for global shoppers."
   },
@@ -112,7 +112,7 @@
     "size": 120,
     "reviews": "1800K",
     "ratingAvg": 4.6,
-    "downloads": "1000M",
+    "downloads": 23,
     "ratings": [{ "name": "1 star", "count": 30000 }, { "name": "2 star", "count": 40000 }, { "name": "3 star", "count": 80000 }, { "name": "4 star", "count": 170000 }, { "name": "5 star", "count": 230000 }],
     "detailedDescription": "Netflix delivers on-demand streaming of award-winning originals, blockbusters, series, and kids' shows in 4K HDR with spatial audio. Tailored profiles, continue watching, and Top 10 lists guide discovery. Offline downloads support travel, while extras like behind-the-scenes and trailers add depth. Multi-language support and parental controls ensure family-friendly access. From thrillers to rom-coms, it curates global content libraries that adapt to tastes, fostering binge sessions and cultural immersion without commercials or commitments."
   },
@@ -125,7 +125,7 @@
     "size": 95,
     "reviews": "2100K",
     "ratingAvg": 4.7,
-    "downloads": "1500M",
+    "downloads": 69,
     "ratings": [{ "name": "1 star", "count": 30000 }, { "name": "2 star", "count": 40000 }, { "name": "3 star", "count": 80000 }, { "name": "4 star", "count": 170000 }, { "name": "5 star", "count": 230000 }],
     "detailedDescription": "Spotify streams vast music catalogs and exclusive podcasts with smart playlists, artist radios, and collaborative sessions. Lyrics display, Canvas visuals, and Spotify HiFi promise immersive audio. Share tracks via Stories or car mode for safe driving. Family plans and Duo Mixes cater to households. Its data-driven insights like Release Radar keep users ahead of trends, blending free tier with premium perks for unlimited skips and quality. A daily companion for mood-lifting tunes and insightful talks."
   },
@@ -138,7 +138,7 @@
     "size": 140,
     "reviews": "2500K",
     "ratingAvg": 4.5,
-    "downloads": "1200M",
+    "downloads": 26,
     "ratings": [{ "name": "1 star", "count": 30000 }, { "name": "2 star", "count": 40000 }, { "name": "3 star", "count": 80000 }, { "name": "4 star", "count": 170000 }, { "name": "5 star", "count": 230000 }],
     "detailedDescription": "Amazon Shopping unlocks endless deals on everything from tech gadgets to home goods via intuitive search, AR view in you, and lightning-fast checkout. Prime members get free shipping, video reviews, and exclusive sales. Track packages, manage subscriptions, and earn rewards. Virtual try-on for clothes and customer Q&A build confidence. With global warehouses and same-day options, it turns impulse buys into seamless deliveries, powering e-commerce convenience for busy lifestyles worldwide."
   },
@@ -151,7 +151,7 @@
     "size": 85,
     "reviews": "3000K",
     "ratingAvg": 4.1,
-    "downloads": "5000M",
+    "downloads": 87,
     "ratings": [{ "name": "1 star", "count": 30000 }, { "name": "2 star", "count": 40000 }, { "name": "3 star", "count": 80000 }, { "name": "4 star", "count": 170000 }, { "name": "5 star", "count": 230000 }],
     "detailedDescription": "Instagram captivates with photo/video sharing, 24-hour Stories, short Reels, and Live sessions for real-time interaction. Discover trends via Explore, collaborate on posts, and shop directly from feeds. Advanced editing tools, AR filters, and music integration fuel creativity for influencers and everyday users. Private accounts, close friends lists, and message requests protect privacy. Algorithm-driven feeds prioritize engagement, making it a vibrant space for self-expression, brand promotion, and social discovery across global communities."
 
@@ -165,7 +165,7 @@
     "size": 90,
     "reviews": "2800K",
     "ratingAvg": 4.4,
-    "downloads": "4000M",
+    "downloads": 63,
     "ratings": [{ "name": "1 star", "count": 30000 }, { "name": "2 star", "count": 40000 }, { "name": "3 star", "count": 80000 }, { "name": "4 star", "count": 170000 }, { "name": "5 star", "count": 230000 }],
     "detailedDescription": "Instagram captivates with photo/video sharing, 24-hour Stories, short Reels, and Live sessions for real-time interaction. Discover trends via Explore, collaborate on posts, and shop directly from feeds. Advanced editing tools, AR filters, and music integration fuel creativity for influencers and everyday users. Private accounts, close friends lists, and message requests protect privacy. Algorithm-driven feeds prioritize engagement, making it a vibrant space for self-expression, brand promotion, and social discovery across global communities."
   },
@@ -178,7 +178,7 @@
     "size": 70,
     "reviews": "900K",
     "ratingAvg": 4.3,
-    "downloads": "1000M",
+    "downloads": 85,
     "ratings": [{ "name": "1 star", "count": 30000 }, { "name": "2 star", "count": 40000 }, { "name": "3 star", "count": 80000 }, { "name": "4 star", "count": 170000 }, { "name": "5 star", "count": 230000 }],
     "detailedDescription": "Zoom enables seamless video conferencing with HD meetings for up to 1000 participants, screen sharing, breakout rooms, and virtual backgrounds. Perfect for remote work, webinars, and classes, it offers chat, polls, reactions, and recording features. One-click joining, waiting rooms, and password protection ensure security. Integrates with calendars and apps for effortless scheduling. Its intuitive interface and reliable performance make it the go-to for professional and casual video communication worldwide."
   },
@@ -191,7 +191,7 @@
     "size": 110,
     "reviews": "650K",
     "ratingAvg": 4.6,
-    "downloads": "500M",
+    "downloads": 90,
     "ratings": [{ "name": "1 star", "count": 30000 }, { "name": "2 star", "count": 40000 }, { "name": "3 star", "count": 80000 }, { "name": "4 star", "count": 170000 }, { "name": "5 star", "count": 230000 }],
     "detailedDescription": "Adobe Lightroom empowers photographers with professional-grade editing tools including selective adjustments, healing brush, geometry correction, and AI-powered masking. Organize libraries with smart collections, presets, and cloud sync across devices. Batch processing, non-destructive edits, and raw file support streamline workflows. Share portfolios via web galleries or export in multiple formats. Ideal for hobbyists to pros seeking precise color grading, noise reduction, and creative enhancements on mobile."
   },
@@ -204,7 +204,7 @@
     "size": 100,
     "reviews": "1400K",
     "ratingAvg": 4.2,
-    "downloads": "2000M",
+    "downloads": 24,
     "ratings": [{ "name": "1 star", "count": 30000 }, { "name": "2 star", "count": 40000 }, { "name": "3 star", "count": 80000 }, { "name": "4 star", "count": 170000 }, { "name": "5 star", "count": 230000 }],
     "detailedDescription": "Uber transforms mobility with on-demand rides including UberX, Pool, Black, and Eats delivery. Real-time tracking, upfront pricing, and driver ratings ensure safe, convenient travel. Schedule rides, split fares, and access premium options like SUVs. Safety features like Share My Trip, emergency SOS, and PIN verification provide peace of mind. Available in cities worldwide, it connects users to drivers quickly for daily commutes, airport runs, or nights out."
   },
@@ -217,7 +217,7 @@
     "size": 105,
     "reviews": "800K",
     "ratingAvg": 4.5,
-    "downloads": "500M",
+    "downloads": 59,
     "ratings": [{ "name": "1 star", "count": 30000 }, { "name": "2 star", "count": 40000 }, { "name": "3 star", "count": 80000 }, { "name": "4 star", "count": 170000 }, { "name": "5 star", "count": 230000 }],
     "detailedDescription": "Airbnb offers unique accommodations from cozy homes to treehouses and castles worldwide. Instant Book, Superhost badges, and detailed reviews help find perfect stays. Flexible cancellation, experiences like cooking classes, and 24/7 support enhance trips. Map search, wishlists, and price filters simplify planning. Travelers connect directly with hosts for authentic local vibes, while earners monetize spare space securely."
   },
@@ -230,7 +230,7 @@
     "size": 85,
     "reviews": "550K",
     "ratingAvg": 4.4,
-    "downloads": "300M",
+    "downloads": 43,
     "ratings": [{ "name": "1 star", "count": 30000 }, { "name": "2 star", "count": 40000 }, { "name": "3 star", "count": 80000 }, { "name": "4 star", "count": 170000 }, { "name": "5 star", "count": 230000 }],
     "detailedDescription": "Slack streamlines teamwork with channels, direct messages, file sharing, and app integrations like Google Drive and Zoom. Searchable message history, reactions, threads, and reminders boost productivity. Custom emojis, workflow builder, and Canvas for docs create engaging workspaces. Voice huddles and clips replace meetings. Enterprise-grade security and admin controls make it ideal for remote and hybrid teams collaborating efficiently."
   },
@@ -243,7 +243,7 @@
     "size": 60,
     "reviews": "700K",
     "ratingAvg": 4.8,
-    "downloads": "400M",
+    "downloads": 40,
     "ratings": [{ "name": "1 star", "count": 30000 }, { "name": "2 star", "count": 40000 }, { "name": "3 star", "count": 80000 }, { "name": "4 star", "count": 170000 }, { "name": "5 star", "count": 230000 }],
     "detailedDescription": "GitHub powers software development with version control, pull requests, issues tracking, and Codespaces for cloud coding. Discover open-source projects, fork repos, and collaborate via wikis and projects boards. Actions enable CI/CD pipelines, while Sponsors support maintainers. Mobile access reviews code, manages notifications, and explores repositories. Essential for developers building, sharing, and learning in the world's largest code community."
   },
@@ -256,7 +256,7 @@
     "size": 90,
     "reviews": "1000K",
     "ratingAvg": 4.1,
-    "downloads": "1000M",
+    "downloads": 30,
     "ratings": [{ "name": "1 star", "count": 30000 }, { "name": "2 star", "count": 40000 }, { "name": "3 star", "count": 80000 }, { "name": "4 star", "count": 170000 }, { "name": "5 star", "count": 230000 }],
     "detailedDescription": "PayPal facilitates secure digital payments, peer-to-peer transfers, and online shopping with buyer protection. Link cards/banks, split purchases, request money, and track transactions. Crypto buying, Venmo integration, and business invoicing expand utility. Biometric login, fraud monitoring, and dispute resolution safeguard funds. Accepted globally at millions of merchants, it's a trusted wallet for e-commerce, freelancing, and personal finance."
   },
@@ -269,7 +269,7 @@
     "size": 95,
     "reviews": "2100K",
     "ratingAvg": 4.5,
-    "downloads": "1200M",
+    "downloads": 95,
     "ratings": [{ "name": "1 star", "count": 30000 }, { "name": "2 star", "count": 40000 }, { "name": "3 star", "count": 80000 }, { "name": "4 star", "count": 170000 }, { "name": "5 star", "count": 230000 }],
     "detailedDescription": "Zoom Meetings delivers crystal-clear video/audio for teams with whiteboards, team chat, and simultaneous interpretation. Host large webinars, use focus mode, and share galleries. End-to-end encryption, role-based access, and session controls prioritize security. Mobile-optimized for on-the-go participation, with live transcription and cloud recording. Scales from casual calls to enterprise events, redefining hybrid collaboration."
   },
@@ -282,7 +282,7 @@
     "size": 110,
     "reviews": "1900K",
     "ratingAvg": 4.3,
-    "downloads": "1500M",
+    "downloads": 54,
     "ratings": [{ "name": "1 star", "count": 30000 }, { "name": "2 star", "count": 40000 }, { "name": "3 star", "count": 80000 }, { "name": "4 star", "count": 170000 }, { "name": "5 star", "count": 230000 }],
     "detailedDescription": "LinkedIn connects professionals for networking, job hunting, and industry insights via profiles, company pages, and groups. Post articles, endorse skills, and message recruiters. Learning courses, events, and newsletters support growth. News Feed surfaces relevant updates, while Premium unlocks InMail and insights. The career hub for building connections, discovering opportunities, and staying ahead professionally."
   },
@@ -295,7 +295,7 @@
     "size": 130,
     "reviews": "2600K",
     "ratingAvg": 4.4,
-    "downloads": "2000M",
+    "downloads": 23,
     "ratings": [{ "name": "1 star", "count": 30000 }, { "name": "2 star", "count": 40000 }, { "name": "3 star", "count": 80000 }, { "name": "4 star", "count": 170000 }, { "name": "5 star", "count": 230000 }],
     "detailedDescription": "Uber provides diverse transport options like rideshares, bikes, scooters, and taxis with upfront fares and live maps. Reserve ahead, add stops, and use Uber One for perks. Driver profiles, trip receipts, and 24/7 support enhance reliability. Emergency features and audio sharing prioritize safety. From urban dashes to airport transfers, it offers flexible mobility solutions globally."
   },
@@ -308,7 +308,7 @@
     "size": 140,
     "reviews": "1800K",
     "ratingAvg": 4.6,
-    "downloads": "800M",
+    "downloads": 47,
     "ratings": [{ "name": "1 star", "count": 30000 }, { "name": "2 star", "count": 40000 }, { "name": "3 star", "count": 80000 }, { "name": "4 star", "count": 170000 }, { "name": "5 star", "count": 230000 }],
     "detailedDescription": "Airbnb curates extraordinary stays and Adventures from glamping to city lofts across 220+ countries. Verified photos, host verification, and cleaning protocols ensure quality. Co-hosting, flexible search, and price breakdowns aid decisions. Message hosts, manage bookings, and earn credits. Redefines travel with personalized, home-like accommodations and immersive local activities."
   },
@@ -321,7 +321,7 @@
     "size": 20,
     "reviews": "850K",
     "ratingAvg": 4.2,
-    "downloads": "500M",
+    "downloads": 70,
     "ratings": [{ "name": "1 star", "count": 30000 }, { "name": "2 star", "count": 40000 }, { "name": "3 star", "count": 80000 }, { "name": "4 star", "count": 170000 }, { "name": "5 star", "count": 230000 }],
     "detailedDescription": "Spotify Lite delivers music and podcasts optimized for slower devices and data plans with smart caching, data saver mode, and offline playback. Core features like playlists, search, and equalizer fit under 20MB. Sleep timer, app lock, and car mode enhance usability. Perfect for emerging markets and budget users seeking Spotify's personalized experience without heavy resource demands."
   },
@@ -334,7 +334,7 @@
     "size": 125,
     "reviews": "3000K",
     "ratingAvg": 4.7,
-    "downloads": "5000M",
+    "downloads": 54,
     "ratings": [{ "name": "1 star", "count": 30000 }, { "name": "2 star", "count": 40000 }, { "name": "3 star", "count": 80000 }, { "name": "4 star", "count": 170000 }, { "name": "5 star", "count": 230000 }],
     "detailedDescription": "Google Drive provides 15GB free cloud storage for files, photos, and Docs with seamless search, version history, and real-time collaboration. Share links with permissions, scan docs via camera, and offline edit. Integrates with Gmail, Photos, and Workspace apps. Organize folders, preview 100+ formats, and backup devices. Reliable sync across platforms makes it essential for personal and team file management."
   },
@@ -347,7 +347,7 @@
     "size": 115,
     "reviews": "2400K",
     "ratingAvg": 4.1,
-    "downloads": "3000M",
+    "downloads": 36,
     "ratings": [{ "name": "1 star", "count": 30000 }, { "name": "2 star", "count": 40000 }, { "name": "3 star", "count": 80000 }, { "name": "4 star", "count": 170000 }, { "name": "5 star", "count": 230000 }],
     "detailedDescription": "Snapchat thrives on ephemeral Snaps, Stories, and Spotlight videos with AR Lenses, Bitmoji avatars, and Discover shows. Private messaging, group chats, and Map track friends. Memories archive highlights, while Snap Map shows live locations. Creative tools and filters drive viral trends among younger users seeking fun, authentic sharing without permanence."
   },
@@ -360,7 +360,7 @@
     "size": 75,
     "reviews": "620K",
     "ratingAvg": 4.6,
-    "downloads": "400M",
+    "downloads": 78,
     "ratings": [{ "name": "1 star", "count": 30000 }, { "name": "2 star", "count": 40000 }, { "name": "3 star", "count": 80000 }, { "name": "4 star", "count": 170000 }, { "name": "5 star", "count": 230000 }],
     "detailedDescription": "Adobe Scan instantly captures receipts, business cards, and docs with edge detection, auto-enhancement, and OCR text recognition. Export searchable PDFs to Acrobat, Drive, or email. Organize scans into folders, add signatures, and redact sensitive info. Free for basics with premium editing unlocks. Transforms smartphones into portable scanners for professionals handling paperwork on the move."
   }

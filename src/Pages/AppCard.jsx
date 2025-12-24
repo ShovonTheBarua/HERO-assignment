@@ -5,7 +5,7 @@ import { Link } from "react-router";
 
 const AppCard = ({ data }) => {
   // console.log(data);
-  const { title, image, id } = data;
+  const { title, image, id, downloads, ratingAvg } = data;
   return (
     <Link to={`/appDetails/${id}`}>
       <div className="p-4 shadow-2xl hover:scale-102 transition ease-in-out">
@@ -21,10 +21,11 @@ const AppCard = ({ data }) => {
           <span className="flex justify-between">
             <button className="flex gap-2 p-2 items-center rounded-md text-[#00D390] bg-[#F1F5E8]">
               <MdOutlineFileDownload />
-              9M
+              {downloads}M
             </button>
             <button className="flex gap-2 p-2 items-center rounded-md text-[#FF8811] bg-[#FFF0E1]">
-              <FaStar />5
+              <FaStar />
+              {ratingAvg}
             </button>
           </span>
         </div>
